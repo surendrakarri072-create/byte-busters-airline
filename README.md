@@ -79,4 +79,4 @@ Open http://localhost:5173
 - **Backend:** Render or a similar Django host
 
 ## Author
-[TEAM BYTE BUSTERS] – [KIET/ CAI] – [GitHub profile link]
+[TEAM BYTE BUSTERS] – [KIET/ CAI] – [https://github.com/surendrakarri072-create]
